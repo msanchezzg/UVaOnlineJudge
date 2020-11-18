@@ -1,5 +1,5 @@
 # UVaOnlineJudge
-Most problems are solved in C++, although some are solved in Python and some in both.
+Most problems are solved in C++, some are solved in Python and some in both.
 
 ## Useful links
 * Online Judge (<https://onlinejudge.org>)
